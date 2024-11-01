@@ -49,7 +49,7 @@
 ## 💼 Личные качества
 💪 Энергичен, целеустремлён, постоянно ищу пути для оптимизации процессов и совершенствования навыков. Открыт к новым возможностям и идеям, с энтузиазмом отношусь к командной работе и новым вызовам.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivn-srg)](https://git.io/streak-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
