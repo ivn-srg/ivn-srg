@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я <a href="https://t.me/ivn_srg" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=middle+iOS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=junior%2b+iOS+Developer)](https://git.io/typing-svg)
 
 Меня зовут Сергей, и я iOS-разработчик, увлечённый созданием высококачественных мобильных приложений с использованием Swift, UIKit, SwiftUI и архитектурных паттернов, таких как MVVM, apple MVC. 🚀📱
 
@@ -49,7 +49,7 @@
 Некоторые из моих значимых проектов, где проявились мои профессиональные навыки:
 
 1. <a href="https://github.com/ivn-srg/prtf-vodimobile">**Водимобиль**</a> — мультиплатформенное приложение для Android и iOS для аренды авто в России и СНГ 🛠️ 🌐
-2. <a href="https://github.com/ivn-srg/iOSPetProjectWithQaseAPI">**Qase App**</a> — кастомизация интерфейсов для тест-кейсов в автоматизации тестирования на основе API сервиса Qase 🧪
+2. <a href="https://github.com/ivn-srg/prtf-qase?tab=readme-ov-file">**Qase App**</a> — кастомизация интерфейсов для тест-кейсов в автоматизации тестирования на основе API сервиса Qase 🧪
 3. <a href="https://github.com/ivn-srg/MarvelHeroesiOSApp">**Marvel App**</a> — приложение-каталог для просмотра героев и информации по ним по киновселенной Marvel
 
 ## 🔍 Что я ищу
