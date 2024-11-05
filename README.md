@@ -19,12 +19,15 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0078D6?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-4285F4?style=for-the-badge&logo=uikit&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-51A9F5?style=for-the-badge&logo=combine&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FFD700?style=for-the-badge&logo=mvvm&logoColor=black)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![CoreData](https://img.shields.io/badge/CoreData-4682B4?style=for-the-badge&logo=coredata&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-5D3A00?style=for-the-badge&logo=realm&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-4285F4?style=for-the-badge&logo=api&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-FC6D26?style=for-the-badge&logo=testing&logoColor=white)
+![SnapKit](https://img.shields.io/badge/SnapKit-0A7EB4?style=for-the-badge&logo=snapkit&logoColor=white)
+![Alamofire](https://img.shields.io/badge/Alamofire-EE545A?style=for-the-badge&logo=alamofire&logoColor=white)
+![Kingfisher](https://img.shields.io/badge/Kingfisher-68B54D?style=for-the-badge&logo=kingfisher&logoColor=white)
+![async/await](https://img.shields.io/badge/async%2Fawait-3D0054?style=for-the-badge&logo=asyncawait&logoColor=white)
+![XCTest](https://img.shields.io/badge/XCTest-FF6B6B?style=for-the-badge&logo=xctest&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000080?style=for-the-badge&logo=cleanarchitecture&logoColor=white)
 
 #### 🧩 Архитектура и Бизнес-логика
 💡 Благодаря опыту работы с MVVM и Clean Architecture, а также знаниям других архитектурных паттернов и принципов проектирования(SOLID, KISS, DRY), мне удается поддерживать код чистым, читаемым и легко масштабируемым.
