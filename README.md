@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я <a href="https://t.me/ivn_srg" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=junior%2b+iOS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=middle+iOS+Developer)](https://git.io/typing-svg)
 
 Меня зовут Сергей, и я iOS-разработчик, увлечённый созданием высококачественных мобильных приложений с использованием Swift, UIKit, SwiftUI и архитектурных паттернов, таких как MVVM, apple MVC. 🚀📱
 
