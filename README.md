@@ -28,8 +28,8 @@ class iOSDeveloper {
     let name = "Сергей"
     let role = "iOS Developer"
     let experience = [
-        "iOS Development": "1+ year",
-        "Quality Assurance": "4+ years"
+        "iOS Development": "3+ year",
+        "Quality Assurance": "3+ years"
     ]
     let teamSizes = "2-12 человек"
     
